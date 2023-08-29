@@ -1,0 +1,15 @@
+Data/**
+Data
+.idea
+env
+venv
+Model
+__pycache__
+*test*
+*log*
+*.txt
+*.ipynb
+embed.zip
+.vscode/settings.json
+tmp2
+tmp
